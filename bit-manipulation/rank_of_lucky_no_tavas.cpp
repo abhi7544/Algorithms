@@ -56,6 +56,8 @@ int main()
      ans1=ans1+(1<<x);
      x++;
 
+     
+
  }
 
     ans=ans1+((1<<x)-2)+1;
